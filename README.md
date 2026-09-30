@@ -46,6 +46,7 @@ I enjoy understanding how systems work internally, debugging real-world problems
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,js,html,css&theme=dark&perline=8" />
+<br>
 <img src="https://skillicons.dev/icons?i=python,java,php,cpp,git,github,visualstudio&theme=dark&perline=8" />
 
 </p>
